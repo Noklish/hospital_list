@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "UT Southwestern Medical Center",
+        "address": "5323 Harry Hines Blvd, Dallas, TX 75390",
+        "imgSrc": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc scelerisque viverra mauris in aliquam sem fringilla. Scelerisque felis imperdiet proin fermentum leo vel. Nec sagittis aliquam malesuada bibendum. Nisl pretium fusce id velit ut. Libero enim sed faucibus turpis in eu mi bibendum neque. Placerat vestibulum lectus mauris ultrices eros in cursus. Sapien nec sagittis aliquam malesuada. Amet nulla facilisi morbi tempus iaculis. Sed faucibus turpis in eu mi. Sed adipiscing diam donec adipiscing. Nunc id cursus metus aliquam eleifend mi in nulla posuere."
+    },
+    {
+        "id": 2,
+        "name": "Baylor Scott & White Medical Center - Grapevine",
+        "address": "1650 W College St, Grapevine, TX 76051",
+        "imgSrc": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1153&q=80",
+        "description": null
+    },
+    {
+        "id": 3,
+        "name": "Texas Health Presbyterian Hospital Dallas",
+        "address": "8200 Walnut Hl Ln, Dallas, TX 75231",
+        "imgSrc": "https://images.unsplash.com/photo-1632833239869-a37e3a5806d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80",
+        "description": "Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Euismod lacinia at quis risus sed vulputate odio ut enim. Nunc sed id semper risus in hendrerit. Sem integer vitae justo eget magna fermentum iaculis eu non. Tristique risus nec feugiat in fermentum."
+    }
+]
