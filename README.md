@@ -1,6 +1,6 @@
 # Hospital List
 
-This a demo technical assessment for an interview. It's not particularly interesting.
+This a demo technical assessment for an interview.
 
 # Running the app
 
